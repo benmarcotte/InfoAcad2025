@@ -1,0 +1,14 @@
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.exe
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.deps.json
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.runtimeconfig.json
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.pdb
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.AssemblyInfoInputs.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.AssemblyInfo.cs
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\refint\InfoAcads.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.pdb
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.genruntimeconfig.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\ref\InfoAcads.dll

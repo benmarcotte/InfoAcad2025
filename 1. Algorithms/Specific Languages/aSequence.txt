@@ -1,0 +1,11 @@
+1. a) Compute the sequence given up to i terms. Refer to the questionnaire for the sequence.
+      The compiler used is found at this link: https://www.tutorialspoint.com/compile_assembly_online.php
+      All text after the line of hashes will be taken as your solution and will not be processed in any way, including trimming trailing whitespaces and otherwise.
+      If you put an additional line of hashes your solution will break.
+
+1. a) Calculez la séquence donnée jusqu'au ieme terme. Référez au questionnaire pour la séquence.
+      Le compileur qui sera utilisé se trouve à ce lien: https://www.tutorialspoint.com/compile_assembly_online.php
+      Tout texte après la ligne de dièses sera pris en intégral pour votre solution et ne sera pas traité en aucune manière, incluant le taillage des espaces et autrement.
+      Si vous mettez une ligne additionelle de dièses votre solution ne sera pas pris en compte.
+
+#######################################################

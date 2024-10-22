@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\",
+  "WorkspaceRootPath": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\codefiles\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\codefiles\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\codefiles\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\thebe\\documents\\infoacad2025\\1. algorithms\\solutions\\infoacads\\codefiles\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\D.cs",
+              "RelativeDocumentMoniker": "CodeFiles\\D.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\D.cs",
+              "RelativeToolTip": "CodeFiles\\D.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAIwLQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:01:09.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B.json",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
+              "RelativeDocumentMoniker": "Jsons\\B.json",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
+              "RelativeToolTip": "Jsons\\B.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:35:26.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A.json",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
+              "RelativeDocumentMoniker": "Jsons\\A.json",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
+              "RelativeToolTip": "Jsons\\A.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:35:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D.json",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
+              "RelativeDocumentMoniker": "Jsons\\D.json",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
+              "RelativeToolTip": "Jsons\\D.json",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:31:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\Question.cs",
+              "RelativeDocumentMoniker": "CodeFiles\\Question.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\Question.cs",
+              "RelativeToolTip": "CodeFiles\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:01:30.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "C.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\C.cs",
+              "RelativeDocumentMoniker": "CodeFiles\\C.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\C.cs",
+              "RelativeToolTip": "CodeFiles\\C.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:26:21.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "B.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
               "RelativeDocumentMoniker": "CodeFiles\\B.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
               "RelativeToolTip": "CodeFiles\\B.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwDUAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T04:23:44.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "A.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
               "RelativeDocumentMoniker": "CodeFiles\\A.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
               "RelativeToolTip": "CodeFiles\\A.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T04:23:40.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
+              "ToolTip": "C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T04:22:34.813Z",
               "EditorCaption": ""

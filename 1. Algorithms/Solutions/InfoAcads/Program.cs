@@ -13,19 +13,24 @@ namespace InfoAcads
     {
         static void Main(string[] args)
         {
-            var options = new JsonSerializerOptions { WriteIndented = true };
+            var options = new JsonSerializerOptions { WriteIndented = true, IncludeFields = true };
 
-            var aFile = new StreamWriter("C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Jsons\\A.json");
-            aFile.Write(JsonSerializer.Serialize(A.GenerateSolutions(), options));
+            //cant do more than 9
+            var aFile = new StreamWriter("C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json");
+            aFile.Write(JsonSerializer.Serialize(A.GenerateSolutions(9), options));
             aFile.Close();
 
-            var bFile = new StreamWriter("C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Jsons\\B.json");
-            bFile.Write(JsonSerializer.Serialize(B.GenerateSolutions(), options));
+            var bFile = new StreamWriter("C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json");
+            bFile.Write(JsonSerializer.Serialize(B.GenerateSolutions(20), options));
             bFile.Close();
 
-            var cFile = new StreamWriter("C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Jsons\\C.json");
-            cFile.Write(JsonSerializer.Serialize(C.GenerateSolutions(), options));
-            cFile.Close();
+            //var cFile = new StreamWriter("C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Jsons\\C.json");
+            //cFile.Write(JsonSerializer.Serialize(C.GenerateSolutions(0), options));
+            //cFile.Close();
+
+            var dFile = new StreamWriter("C:\\Users\\thebe\\Documents\\InfoAcad2025\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json");
+            dFile.Write(JsonSerializer.Serialize(D.GenerateSolutions(25), options));
+            dFile.Close();
         }
     }
 }

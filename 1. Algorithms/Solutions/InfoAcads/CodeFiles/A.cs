@@ -8,17 +8,17 @@ using System.Threading.Tasks;
 
 namespace InfoAcads.CodeFiles
 {
-    public class A(int n, int answer)
+    public class A(int n, int answer) : Question<A>
     {
         [JsonInclude]
         public int n = n;
         [JsonInclude]
         public int answer = answer;
 
-        public static List<A> GenerateSolutions()
+        public static List<A> GenerateSolutions(int numberOfSolutions)
         {
             var returnal = new List<A>();
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < numberOfSolutions; i++)
             {
                 returnal.Add(new A(i, ComputeSequence(i)));
             }

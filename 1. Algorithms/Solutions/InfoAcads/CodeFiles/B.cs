@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace InfoAcads.CodeFiles
 {
-    public class B(int position, List<int> numbers, int answer)
+    public class B(int position, List<int> numbers, int answer) : Question<B>
     {
         [JsonInclude]
         public int position = position;
@@ -18,12 +18,12 @@ namespace InfoAcads.CodeFiles
         [JsonInclude]
         public int answer = answer;
 
-        public static List<B> GenerateSolutions()
+        public static List<B> GenerateSolutions(int numberOfSolutions)
         {
             List<B> solution = [];
             var rand = new Random();
             List<int> lengths = [];
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < numberOfSolutions; i++)
             {
                 lengths.Add(rand.Next(100) + 1);
             }
@@ -43,7 +43,7 @@ namespace InfoAcads.CodeFiles
                         }
                     }
                 }
-                queries.Add((rand.Next(list.Count + 1), list)); // + 1 because position is 1-based ("nth smallest position")
+                queries.Add((rand.Next(list.Count) + 1, list)); // + 1 because position is 1-based ("nth smallest position")
                 
             }
 

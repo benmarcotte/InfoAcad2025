@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace InfoAcads.CodeFiles
 {
-    public class C(Sudoku sudoku, bool isValidAnswer)
+    public class C(Sudoku sudoku, bool isValidAnswer) : Question<C>
     {
         Sudoku sudoku = sudoku;
         bool isValidAnswer = isValidAnswer;
 
-        public static List<C> GenerateSolution()
+        public static List<C> GenerateSolutions(int numberOfSolutions)
         {
-
+            throw new NotImplementedException();
         }
     }
 

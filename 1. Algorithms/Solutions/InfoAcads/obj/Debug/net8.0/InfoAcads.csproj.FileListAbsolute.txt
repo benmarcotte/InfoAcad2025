@@ -27,3 +27,4 @@ C:\Users\thebe\Documents\InfoAcad2025\1. Algorithms\Solutions\InfoAcads\bin\Debu
 C:\Users\thebe\Documents\InfoAcad2025\1. Algorithms\Solutions\InfoAcads\bin\Debug\net8.0\InfoAcads.pdb
 C:\Users\thebe\Documents\InfoAcad2025\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.genruntimeconfig.cache
 C:\Users\thebe\Documents\InfoAcad2025\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\ref\InfoAcads.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\Solutions\InfoAcads\obj\Debug\net8.0\InfoAcads.sourcelink.json

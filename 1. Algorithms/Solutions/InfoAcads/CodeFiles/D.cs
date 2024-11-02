@@ -37,7 +37,7 @@ namespace InfoAcads.CodeFiles
         [JsonInclude]
         public List<(int, Suits)> cards = cards;
         [JsonInclude]
-        public Hands hand = hand;
+        public Hands answer = hand;
 
         public static List<D> GenerateSolutions(int numberOfSolutions)
         {

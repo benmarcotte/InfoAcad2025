@@ -43,9 +43,9 @@ namespace InfoAcads
             fFile.Write(JsonSerializer.Serialize(F.GenerateSolutions(25), options));
             fFile.Close();
 
-            //var gFile = new StreamWriter(path + "G.json");
-            //gFile.Write(JsonSerializer.Serialize(G.GenerateSolutions(25), options));
-            //gFile.Close();
+            var gFile = new StreamWriter(path + "G.json");
+            gFile.Write(JsonSerializer.Serialize(G.GenerateSolutions(25), options));
+            gFile.Close();
 
             var hFile = new StreamWriter(path + "H.json");
             hFile.Write(JsonSerializer.Serialize(H.GenerateSolutions(25), options));

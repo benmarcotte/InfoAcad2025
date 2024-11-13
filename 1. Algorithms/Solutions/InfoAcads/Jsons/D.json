@@ -2,24 +2,24 @@
   {
     "cards": [
       {
-        "Item1": 3,
-        "Item2": "SPADES"
+        "Item1": 11,
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 3,
-        "Item2": "SPADES"
+        "Item1": 11,
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 3,
-        "Item2": "SPADES"
+        "Item1": 11,
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 3,
-        "Item2": "SPADES"
+        "Item1": 11,
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 3,
-        "Item2": "SPADES"
+        "Item1": 11,
+        "Item2": "CLUBS"
       }
     ],
     "answer": "FLUSH_FIVE"
@@ -28,23 +28,23 @@
     "cards": [
       {
         "Item1": 7,
-        "Item2": "HEARTS"
+        "Item2": "CLUBS"
       },
       {
         "Item1": 7,
-        "Item2": "HEARTS"
+        "Item2": "CLUBS"
       },
       {
         "Item1": 7,
-        "Item2": "HEARTS"
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 1,
-        "Item2": "HEARTS"
+        "Item1": 8,
+        "Item2": "CLUBS"
       },
       {
-        "Item1": 1,
-        "Item2": "HEARTS"
+        "Item1": 8,
+        "Item2": "CLUBS"
       }
     ],
     "answer": "FLUSH_HOUSE"
@@ -52,24 +52,24 @@
   {
     "cards": [
       {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 11,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 11,
+        "Item1": 1,
         "Item2": "DIAMONDS"
       },
       {
-        "Item1": 11,
+        "Item1": 1,
         "Item2": "CLUBS"
+      },
+      {
+        "Item1": 1,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 1,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 1,
+        "Item2": "DIAMONDS"
       }
     ],
     "answer": "FIVE_OF_A_KIND"
@@ -102,24 +102,24 @@
   {
     "cards": [
       {
-        "Item1": 2,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 3,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 4,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
         "Item1": 6,
-        "Item2": "CLUBS"
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 7,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 8,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 9,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 10,
+        "Item2": "HEARTS"
       }
     ],
     "answer": "STRAIGHT_FLUSH"
@@ -127,23 +127,23 @@
   {
     "cards": [
       {
-        "Item1": 10,
+        "Item1": 1,
         "Item2": "HEARTS"
       },
       {
-        "Item1": 10,
+        "Item1": 1,
         "Item2": "DIAMONDS"
       },
       {
-        "Item1": 10,
+        "Item1": 1,
         "Item2": "CLUBS"
       },
       {
-        "Item1": 10,
+        "Item1": 1,
         "Item2": "SPADES"
       },
       {
-        "Item1": 4,
+        "Item1": 13,
         "Item2": "CLUBS"
       }
     ],
@@ -152,11 +152,111 @@
   {
     "cards": [
       {
-        "Item1": 13,
+        "Item1": 5,
         "Item2": "HEARTS"
       },
       {
+        "Item1": 5,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 5,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 9,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 9,
+        "Item2": "HEARTS"
+      }
+    ],
+    "answer": "FULL_HOUSE"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 10,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 12,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 4,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 8,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 7,
+        "Item2": "CLUBS"
+      }
+    ],
+    "answer": "FLUSH"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 3,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 4,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 5,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 6,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 7,
+        "Item2": "SPADES"
+      }
+    ],
+    "answer": "STRAIGHT_FLUSH"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 3,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 3,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 3,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 11,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 11,
+        "Item2": "SPADES"
+      }
+    ],
+    "answer": "FULL_HOUSE"
+  },
+  {
+    "cards": [
+      {
         "Item1": 13,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 1,
         "Item2": "DIAMONDS"
       },
       {
@@ -168,7 +268,82 @@
         "Item2": "CLUBS"
       },
       {
-        "Item1": 1,
+        "Item1": 6,
+        "Item2": "CLUBS"
+      }
+    ],
+    "answer": "TWO_PAIR"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 10,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 3,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 7,
+        "Item2": "SPADES"
+      },
+      {
+        "Item1": 11,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 2,
+        "Item2": "HEARTS"
+      }
+    ],
+    "answer": "HIGH_CARD"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 4,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 5,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 6,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 7,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 8,
+        "Item2": "HEARTS"
+      }
+    ],
+    "answer": "STRAIGHT_FLUSH"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 12,
+        "Item2": "HEARTS"
+      },
+      {
+        "Item1": 12,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 12,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 2,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 2,
         "Item2": "HEARTS"
       }
     ],
@@ -177,30 +352,59 @@
   {
     "cards": [
       {
-        "Item1": 13,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 4,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 6,
-        "Item2": "HEARTS"
-      },
-      {
         "Item1": 1,
-        "Item2": "HEARTS"
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 10,
+        "Item2": "DIAMONDS"
       },
       {
         "Item1": 11,
-        "Item2": "HEARTS"
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 12,
+        "Item2": "DIAMONDS"
+      },
+      {
+        "Item1": 13,
+        "Item2": "DIAMONDS"
       }
     ],
-    "answer": "FLUSH"
+    "answer": "ROYAL_FLUSH"
   },
   {
     "cards": [
+      {
+        "Item1": 7,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 8,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 9,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 10,
+        "Item2": "CLUBS"
+      },
+      {
+        "Item1": 11,
+        "Item2": "CLUBS"
+      }
+    ],
+    "answer": "STRAIGHT_FLUSH"
+  },
+  {
+    "cards": [
+      {
+        "Item1": 7,
+        "Item2": "DIAMONDS"
+      },
       {
         "Item1": 8,
         "Item2": "DIAMONDS"
@@ -216,188 +420,9 @@
       {
         "Item1": 11,
         "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 12,
-        "Item2": "DIAMONDS"
       }
     ],
     "answer": "STRAIGHT_FLUSH"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 3,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 3,
-        "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 3,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "HEARTS"
-      }
-    ],
-    "answer": "FULL_HOUSE"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 9,
-        "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 9,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 6,
-        "Item2": "SPADES"
-      }
-    ],
-    "answer": "TWO_PAIR"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 1,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 10,
-        "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 13,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 9,
-        "Item2": "SPADES"
-      }
-    ],
-    "answer": "HIGH_CARD"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 5,
-        "Item2": "HEARTS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "DIAMONDS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 9,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 9,
-        "Item2": "HEARTS"
-      }
-    ],
-    "answer": "FULL_HOUSE"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 4,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 4,
-        "Item2": "CLUBS"
-      }
-    ],
-    "answer": "FLUSH_HOUSE"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 6,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 10,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 1,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 6,
-        "Item2": "CLUBS"
-      }
-    ],
-    "answer": "FLUSH"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 5,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      },
-      {
-        "Item1": 11,
-        "Item2": "CLUBS"
-      }
-    ],
-    "answer": "FLUSH_HOUSE"
   },
   {
     "cards": [
@@ -423,30 +448,5 @@
       }
     ],
     "answer": "ROYAL_FLUSH"
-  },
-  {
-    "cards": [
-      {
-        "Item1": 6,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 7,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 8,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 9,
-        "Item2": "SPADES"
-      },
-      {
-        "Item1": 10,
-        "Item2": "SPADES"
-      }
-    ],
-    "answer": "STRAIGHT_FLUSH"
   }
 ]

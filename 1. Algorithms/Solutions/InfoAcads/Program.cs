@@ -1,4 +1,4 @@
-﻿using InfoAcads.CodeFiles;
+﻿using Question_1.Questions;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,14 +7,14 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace InfoAcads
+namespace Question_1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             var options = new JsonSerializerOptions { WriteIndented = true, IncludeFields = true };
-            string path = "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\";
+            string path = "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question_1\\Jsons\\";
 
 
 

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\InfoAcads.csproj",
-      "projectName": "InfoAcads",
-      "projectPath": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\InfoAcads.csproj",
+      "projectUniqueName": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
+      "projectName": "Question 1",
+      "projectPath": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
       "packagesPath": "C:\\Users\\Ben\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\obj\\",
       "projectStyle": "PackageReference",

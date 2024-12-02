@@ -3,85 +3,111 @@
   "WorkspaceRootPath": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C93152E1-3212-4EE4-AEC6-D7987E4D62C5}|..\\Cipher\\Cipher.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\cipher\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C93152E1-3212-4EE4-AEC6-D7987E4D62C5}|..\\Cipher\\Cipher.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\cipher\\ciphers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\g.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\g.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B9FBE9F7-7741-4E69-B937-DE12B875E12C}|..\\ConnectFour\\ConnectFour.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\connectfour\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9FBE9F7-7741-4E69-B937-DE12B875E12C}|..\\ConnectFour\\ConnectFour.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\connectfour\\connectfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93152E1-3212-4EE4-AEC6-D7987E4D62C5}|..\\Cipher\\Cipher.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\cipher\\cipher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\question 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:question 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\question 1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:question 1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\cValidSudoku.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\g.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\g.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\gHighestValue.lsp||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\questions\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:questions\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\h.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\h.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\h.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\h.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\e.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\e.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\f.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\e.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\e.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\d.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\b.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|Question 1.csproj|solutionrelative:jsons\\a.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\eDiceProbability.go||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Python\\eDiceProbability.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|c:\\users\\ben\\downloads\\fichiersacadinfo\\fichiersacadinfo\\1. algorithms\\solutions\\infoacads\\codefiles\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{697BA737-AC4A-4AFC-A858-ACAC52DA8598}|InfoAcads.csproj|solutionrelative:codefiles\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,62 +117,287 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectFour.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\ConnectFour\\ConnectFour.cs",
+              "RelativeDocumentMoniker": "..\\ConnectFour\\ConnectFour.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\ConnectFour\\ConnectFour.cs",
+              "RelativeToolTip": "..\\ConnectFour\\ConnectFour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:42:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ciphers.csv",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\ciphers.csv",
+              "RelativeDocumentMoniker": "..\\Cipher\\ciphers.csv",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\ciphers.csv",
+              "RelativeToolTip": "..\\Cipher\\ciphers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAnAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-02T05:39:23.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cipher",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\Cipher.csproj",
+              "RelativeDocumentMoniker": "..\\Cipher\\Cipher.csproj",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\Cipher.csproj",
+              "RelativeToolTip": "..\\Cipher\\Cipher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T05:37:57.669Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\ConnectFour\\Board.cs",
+              "RelativeDocumentMoniker": "..\\ConnectFour\\Board.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\ConnectFour\\Board.cs",
+              "RelativeToolTip": "..\\ConnectFour\\Board.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:37:19.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\Generator.cs",
+              "RelativeDocumentMoniker": "..\\Cipher\\Generator.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Cipher\\Generator.cs",
+              "RelativeToolTip": "..\\Cipher\\Generator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:37:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfoAcads",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
+              "RelativeDocumentMoniker": "Question 1.csproj",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
+              "RelativeToolTip": "Question 1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T05:35:07.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
+              "RelativeDocumentMoniker": "Question 1.csproj",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Question 1.csproj",
+              "RelativeToolTip": "Question 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T05:10:37.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cValidSudoku.cpp",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\cValidSudoku.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Specific Languages\\cValidSudoku.cpp",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\cValidSudoku.cpp",
+              "RelativeToolTip": "..\\..\\Specific Languages\\cValidSudoku.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T04:42:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "F.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\F.cs",
+              "RelativeDocumentMoniker": "Questions\\F.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\F.cs",
+              "RelativeToolTip": "Questions\\F.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:44:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "C.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\C.cs",
+              "RelativeDocumentMoniker": "Questions\\C.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\C.cs",
+              "RelativeToolTip": "Questions\\C.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:26:21.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "G.json",
               "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\G.json",
               "RelativeDocumentMoniker": "Jsons\\G.json",
               "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\G.json",
               "RelativeToolTip": "Jsons\\G.json",
-              "ViewState": "AgIAAAwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkEAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-13T03:26:15.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "I.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\I.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\I.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\I.cs",
-              "RelativeToolTip": "CodeFiles\\I.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T05:25:54.222Z",
+              "DocumentIndex": 25,
+              "Title": "B.json",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
+              "RelativeDocumentMoniker": "Jsons\\B.json",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
+              "RelativeToolTip": "Jsons\\B.json",
+              "ViewState": "AgIAAFYBAAAAAAAAAIBJwFkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:35:26.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "G.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\G.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\G.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\G.cs",
-              "RelativeToolTip": "CodeFiles\\G.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "A.json",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
+              "RelativeDocumentMoniker": "Jsons\\A.json",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
+              "RelativeToolTip": "Jsons\\A.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:35:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "D.json",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
+              "RelativeDocumentMoniker": "Jsons\\D.json",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
+              "RelativeToolTip": "Jsons\\D.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:31:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:21:06.081Z",
+              "WhenOpened": "2024-10-15T04:22:34.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\D.cs",
+              "RelativeDocumentMoniker": "Questions\\D.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\D.cs",
+              "RelativeToolTip": "Questions\\D.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:01:09.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "H.json",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\H.json",
-              "RelativeDocumentMoniker": "Jsons\\H.json",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\H.json",
-              "RelativeToolTip": "Jsons\\H.json",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T04:12:34.356Z"
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\A.cs",
+              "RelativeDocumentMoniker": "Questions\\A.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\A.cs",
+              "RelativeToolTip": "Questions\\A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:23:40.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "Questions\\Question.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\Question.cs",
+              "RelativeToolTip": "Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:01:30.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "eDiceProbability.py",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Python\\eDiceProbability.py",
+              "RelativeDocumentMoniker": "..\\..\\Python\\eDiceProbability.py",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Python\\eDiceProbability.py",
+              "RelativeToolTip": "..\\..\\Python\\eDiceProbability.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-02T02:33:00.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "E.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\E.cs",
+              "RelativeDocumentMoniker": "Questions\\E.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\E.cs",
+              "RelativeToolTip": "Questions\\E.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:41:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "H.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\H.cs",
+              "RelativeDocumentMoniker": "Questions\\H.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\H.cs",
+              "RelativeToolTip": "Questions\\H.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:04:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "gHighestValue.lsp",
               "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\gHighestValue.lsp",
               "RelativeDocumentMoniker": "..\\..\\Specific Languages\\gHighestValue.lsp",
@@ -159,141 +410,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "H.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\H.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\H.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\H.cs",
-              "RelativeToolTip": "CodeFiles\\H.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T04:04:50.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "F.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\F.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\F.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\F.cs",
-              "RelativeToolTip": "CodeFiles\\F.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T03:44:06.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "E.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\E.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\E.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\E.cs",
-              "RelativeToolTip": "CodeFiles\\E.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T02:41:29.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "eDiceProbability.py",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Python\\eDiceProbability.py",
-              "RelativeDocumentMoniker": "..\\..\\Python\\eDiceProbability.py",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Python\\eDiceProbability.py",
-              "RelativeToolTip": "..\\..\\Python\\eDiceProbability.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-11-02T02:33:00.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "D.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\D.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\D.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\D.cs",
-              "RelativeToolTip": "CodeFiles\\D.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T00:01:09.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "B.json",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
-              "RelativeDocumentMoniker": "Jsons\\B.json",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\B.json",
-              "RelativeToolTip": "Jsons\\B.json",
-              "ViewState": "AgIAAFkBAAAAAAAAAAAAAFkBAAAMAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "F.json",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\F.json",
+              "RelativeDocumentMoniker": "Jsons\\F.json",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\F.json",
+              "RelativeToolTip": "Jsons\\F.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:35:26.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "A.json",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
-              "RelativeDocumentMoniker": "Jsons\\A.json",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\A.json",
-              "RelativeToolTip": "Jsons\\A.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:35:24.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "D.json",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
-              "RelativeDocumentMoniker": "Jsons\\D.json",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\D.json",
-              "RelativeToolTip": "Jsons\\D.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T01:31:13.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\Question.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\Question.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\Question.cs",
-              "RelativeToolTip": "CodeFiles\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T00:01:30.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "C.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\C.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\C.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\C.cs",
-              "RelativeToolTip": "CodeFiles\\C.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T02:26:21.477Z",
+              "WhenOpened": "2024-11-02T03:59:40.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwC8AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\B.cs",
+              "RelativeDocumentMoniker": "Questions\\B.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\B.cs",
+              "RelativeToolTip": "Questions\\B.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:22:34.813Z",
+              "WhenOpened": "2024-10-15T04:23:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "H.json",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\H.json",
+              "RelativeDocumentMoniker": "Jsons\\H.json",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\H.json",
+              "RelativeToolTip": "Jsons\\H.json",
+              "ViewState": "AgIAAEMAAAAAAAAAAIBJwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T04:12:34.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "G.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\G.cs",
+              "RelativeDocumentMoniker": "Questions\\G.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\G.cs",
+              "RelativeToolTip": "Questions\\G.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T04:21:06.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "I.cs",
+              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\I.cs",
+              "RelativeDocumentMoniker": "Questions\\I.cs",
+              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Questions\\I.cs",
+              "RelativeToolTip": "Questions\\I.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:25:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "eDiceProbability.go",
               "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Specific Languages\\eDiceProbability.go",
               "RelativeDocumentMoniker": "..\\..\\Specific Languages\\eDiceProbability.go",
@@ -301,55 +483,21 @@
               "RelativeToolTip": "..\\..\\Specific Languages\\eDiceProbability.go",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-02T02:52:28.38Z"
+              "WhenOpened": "2024-11-02T02:52:28.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "F.json",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\F.json",
-              "RelativeDocumentMoniker": "Jsons\\F.json",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\F.json",
-              "RelativeToolTip": "Jsons\\F.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T03:59:40.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "B.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\B.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\B.cs",
-              "RelativeToolTip": "CodeFiles\\B.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwB0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:23:44.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "E.json",
               "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\E.json",
               "RelativeDocumentMoniker": "Jsons\\E.json",
               "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\Jsons\\E.json",
               "RelativeToolTip": "Jsons\\E.json",
-              "ViewState": "AgIAACYBAAAAAAAAAAAlwC4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAAlwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T03:25:36.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "A.cs",
-              "DocumentMoniker": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
-              "RelativeDocumentMoniker": "CodeFiles\\A.cs",
-              "ToolTip": "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\InfoAcads\\CodeFiles\\A.cs",
-              "RelativeToolTip": "CodeFiles\\A.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:23:40.243Z"
+              "WhenOpened": "2024-11-02T03:25:36.438Z",
+              "EditorCaption": ""
             }
           ]
         }

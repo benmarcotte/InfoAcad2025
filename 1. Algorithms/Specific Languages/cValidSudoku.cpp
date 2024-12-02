@@ -1,21 +1,17 @@
-// 1. b) Given a partially-filled sudoku grid, determine if the current filled numbers are valid.
-//       A sudoku grid is considered valid if no row, column or 3-by-3 sector contains repeating numbers, as pictured here: https://urbanrim.org.uk/images/sudoku-blankgrid.png
-//       grid[x][y] is a 9-by-9 2D list of numbers 0-9, where 0 represents an empty square (and as such do not count as a number). 
-//       x represents the rows and y represents the columns, and grid[0][0] is the top-right corner.
-//       If your code returns a value without attempting to solve the question, you will get a score of 0.
+// 1. c) Given a set of points, find the shortest path that starts and ends at the first node and visists every other node exactly once.
+//       Return the shortest path rounded to the nearest hundredth.
 //       You may freely modify everything except the name of the solution function and its parameters.
 
-// 1. b) Déterminez si la grille de sudoku partièllement complétée est valide.
-//       Une grille de sudoku est valide si aucune rangée, colonne ou secteur 3-par-3 ne contient des nombres qui se répètent, tel cette image: https://urbanrim.org.uk/images/sudoku-blankgrid.png
-//       grid[x][y] est une list 2D 9-par-9 composée des nombres 0 à 9, où 0 est une case vide (et comme de soit n'est pas un nombre).
-//       x représente les rangées et y représente les colonnes, et grid[0][0] est le coin en haut à gauche.
-//       Si votre code ramène une valeure sans tenter de résoudre la question, vous auriez un score de 0.
+// 1. c) Donné une série de points, trouver le chemin le plus court qui se débute et se termine au premier point et visite tous les autres points exactement une fois.
+//       Retounrez le chemin le plus court arrondi au centièmes.
 //       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 
-bool solution(int grid[9][9])
+struct {
+    int x;
+    int y;
+} Node;
+
+bool solution(vector<Node> nodes)
 {
-    if (grid[0][0] != 0)
-        return true;
-    else
-        return false;
+    return 0;
 }

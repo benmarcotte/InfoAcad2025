@@ -1,0 +1,15 @@
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.AssemblyInfo.cs
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.sourcelink.json
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\bin\Debug\net8.0\Question 1.exe
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\bin\Debug\net8.0\Question 1.deps.json
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\bin\Debug\net8.0\Question 1.runtimeconfig.json
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\bin\Debug\net8.0\Question 1.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\bin\Debug\net8.0\Question 1.pdb
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\refint\Question 1.dll
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.pdb
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\Question 1.genruntimeconfig.cache
+C:\Users\Ben\Downloads\FichiersAcadInfo\FichiersAcadInfo\1. Algorithms\obj\Debug\net8.0\ref\Question 1.dll

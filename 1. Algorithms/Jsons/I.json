@@ -1,0 +1,22 @@
+[
+  {
+    "number": 17,
+    "answer": false
+  },
+  {
+    "number": 19,
+    "answer": false
+  },
+  {
+    "number": 6,
+    "answer": true
+  },
+  {
+    "number": 0,
+    "answer": true
+  },
+  {
+    "number": 13,
+    "answer": false
+  }
+]

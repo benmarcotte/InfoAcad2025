@@ -15,6 +15,8 @@
 --       N.B.: Les traductions de les mains dans Hands et de les couleurs dans Suits sont à-côté de leur équivalent anglophone.
 --       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 
+-- Lua 5.1
+
 local Hands = {
     FLUSH_FIVE = 0,        -- Quinte flush
     FLUSH_HOUSE = 1,       -- Full flush

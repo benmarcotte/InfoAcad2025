@@ -6,6 +6,7 @@
 ;;       Les trésors dans treasures sont du format (x, y) où x est le poids et y est la valeur.
 ;;       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 
+;; CommonLisp
 
 (defclass treasure()
     ((weight :reader treasure-weight
@@ -20,7 +21,7 @@
 ;; treasures is a list of treasure objects
 ;; treasures est une liste d'objets de type treasure
 (defun solution (treasures weightLimit)
- (if treasure-weight (first treasures) < weightLimit
-    (return treasure-value (first treasures))
+ (if (< (treasure-weight (first treasures)) weightLimit)
+    (return (treasure-value (first treasures)))
     (return 0))
 )

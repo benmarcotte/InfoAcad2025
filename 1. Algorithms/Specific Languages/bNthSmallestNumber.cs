@@ -10,6 +10,7 @@
 //       Vous pouvez défénir et assigner des valeurs à des variables et modifier le return dans LinqFunc().
 //       Une solution avec la présence de toute code jugé illégale ou superflue (c'est-à-dire, avec but de ne pas prévenir des erreurs de compilation sur la ligne 17) sera accordé un score de 0. 
 
+// C# .NET 8.0
 
 public int solution(int n, List<int> numbers)
 {

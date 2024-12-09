@@ -2,7 +2,7 @@
 ;;       Objects are given in the format (x, y) where x is the size and y is the value.
 ;;       You may freely modify everything except the name of solution function and its parameters.
 
-;; 1. g) Déterminez la plus grande valeure possible étant donné une liste de trésors de valeurs et de poids différents, avec une limite de poids total.
+;; 1. g) Adonné une liste de trésors de valeurs et de poids différents, déterminez la plus grande valeur possible selon une limite de poids totale.
 ;;       Les trésors dans treasures sont du format (x, y) où x est le poids et y est la valeur.
 ;;       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 

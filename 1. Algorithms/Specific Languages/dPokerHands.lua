@@ -6,7 +6,7 @@
 --       1 is Ace, 11 is Jack, 12 is Queen, 13 is King.
 --       You may freely modify everything except the name of solution function and its parameters.
 
--- 1. d) Déterminez la main la plus forte selon 5 cartes données.
+-- 1. d) Déterminez la main la plus forte selon 5 cartes de jeu adonnées.
 --       Quinte flush: 5 cartes de la même couleur et du même rang
 --       Full flush: Main pleine dans laquelle toutes les cartes sont de la même couleur
 --       Quinte: 5 cartes du même rang

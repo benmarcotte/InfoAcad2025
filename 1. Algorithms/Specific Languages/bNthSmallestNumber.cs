@@ -4,7 +4,7 @@
 //       You may define and assign to variables and modify the return in the LinqFunc().
 //       The presenence of any code deemed to be illegal or extraneous (i.e. used for anything asides preventing compilation errors on line 17) will bring a score of 0.
 
-// 1. a) Retournez le n-ieme nombre entier dans une liste non-classée. 0 < n < numbers.Count. 
+// 1. a) Retournez le n-ieme nombre entier dans une liste non-classée adonnée. 0 < n < numbers.Count. 
 //       VOUS NE POUVEZ QUE MODIFIER LinqFunc() et ses paramètres, ainsi que son appel à la ligne 17 pour que le code puisse compiler.
 //       Tout code dans LinqFunc() doit utiliser le "query expression syntax" de LINQ. Pour plus d'infos, consultez https://learn.microsoft.com/en-us/dotnet/csharp/linq/standard-query-operators/
 //       Vous pouvez défénir et assigner des valeurs à des variables et modifier le return dans LinqFunc().

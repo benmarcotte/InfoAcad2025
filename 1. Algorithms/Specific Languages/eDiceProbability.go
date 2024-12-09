@@ -2,7 +2,7 @@
 //       The list of tuples dice is of the format xdy, where x is the number of dice and y is the size of the dice. For example, 2d6 is two six-sided dice.
 //       You may freely modify everything except the name of solution function and its parameters.
 
-// 1. e) Déterminez la valeur moyenne obtenue à partir de plusieurs dés de tailles différentes en roulant tous les dés. 
+// 1. e) Adonné plusieurs dés de tailles différentes, déterminez la valeur moyenne obtenue en roulant tous les dés.
 //       La liste de tuples dice est du format xdy, où x est le nombre de dés et y est la tailles des dés. Par exemple, 2d6 représente deux dés à six faces.
 //       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 

@@ -2,7 +2,7 @@
 //       Return the shortest path rounded to the nearest hundredth.
 //       You may freely modify everything except the name of the solution function and its parameters.
 
-// 1. c) Donné une série de points, trouver le chemin le plus court qui se débute et se termine au premier point et visite tous les autres points exactement une fois.
+// 1. c) Adonné une série de points, trouvez le chemin le plus court qui se débute et se termine au premier point et visite tous les autres points exactement une fois.
 //       Retounrez le chemin le plus court arrondi au centièmes.
 //       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 

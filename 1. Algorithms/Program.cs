@@ -17,7 +17,6 @@ namespace Question_1
             string path = "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Jsons\\";
 
 
-
             //cant do more than 9
             var aFile = new StreamWriter(path + "A.json");
             aFile.Write(JsonSerializer.Serialize(A.GenerateSolutions(9), options));
@@ -27,9 +26,9 @@ namespace Question_1
             bFile.Write(JsonSerializer.Serialize(B.GenerateSolutions(20), options));
             bFile.Close();
 
-            //var cFile = new StreamWriter("C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Solutions\\Jsons\\C.json");
-            //cFile.Write(JsonSerializer.Serialize(C.GenerateSolutions(0), options));
-            //cFile.Close();
+            var cFile = new StreamWriter(path + "C.json");
+            cFile.Write(JsonSerializer.Serialize(C.GenerateSolutions(25), options));
+            cFile.Close();
 
             var dFile = new StreamWriter(path + "D.json");
             dFile.Write(JsonSerializer.Serialize(D.GenerateSolutions(25), options));

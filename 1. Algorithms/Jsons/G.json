@@ -3,271 +3,171 @@
     "query": {
       "Item1": [
         {
-          "Item1": 37,
+          "Item1": 15,
           "Item2": 9
-        },
-        {
-          "Item1": 31,
-          "Item2": 17
-        }
-      ],
-      "Item2": 19
-    },
-    "answer": 37
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 26,
-          "Item2": 15
-        },
-        {
-          "Item1": 28,
-          "Item2": 9
-        },
-        {
-          "Item1": 49,
-          "Item2": 10
-        },
-        {
-          "Item1": 43,
-          "Item2": 3
-        },
-        {
-          "Item1": 26,
-          "Item2": 8
-        },
-        {
-          "Item1": 11,
-          "Item2": 19
-        },
-        {
-          "Item1": 8,
-          "Item2": 1
-        }
-      ],
-      "Item2": 28
-    },
-    "answer": 128
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 22,
-          "Item2": 18
-        },
-        {
-          "Item1": 4,
-          "Item2": 18
-        },
-        {
-          "Item1": 11,
-          "Item2": 18
-        },
-        {
-          "Item1": 27,
-          "Item2": 12
-        },
-        {
-          "Item1": 26,
-          "Item2": 5
-        },
-        {
-          "Item1": 24,
-          "Item2": 7
         },
         {
           "Item1": 1,
-          "Item2": 4
-        },
-        {
-          "Item1": 2,
-          "Item2": 17
-        },
-        {
-          "Item1": 31,
-          "Item2": 4
-        },
-        {
-          "Item1": 43,
-          "Item2": 9
-        },
-        {
-          "Item1": 20,
-          "Item2": 8
-        },
-        {
-          "Item1": 23,
-          "Item2": 8
-        },
-        {
-          "Item1": 31,
-          "Item2": 10
-        },
-        {
-          "Item1": 7,
-          "Item2": 14
-        },
-        {
-          "Item1": 15,
-          "Item2": 19
-        },
-        {
-          "Item1": 49,
-          "Item2": 16
-        }
-      ],
-      "Item2": 26
-    },
-    "answer": 92
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 26,
-          "Item2": 16
-        },
-        {
-          "Item1": 25,
           "Item2": 18
         },
         {
-          "Item1": 48,
-          "Item2": 20
-        },
-        {
-          "Item1": 47,
-          "Item2": 3
-        },
-        {
-          "Item1": 22,
-          "Item2": 4
-        },
-        {
-          "Item1": 42,
-          "Item2": 8
-        },
-        {
-          "Item1": 15,
+          "Item1": 29,
           "Item2": 10
         },
         {
-          "Item1": 30,
-          "Item2": 15
-        },
-        {
-          "Item1": 30,
-          "Item2": 1
-        },
-        {
-          "Item1": 21,
-          "Item2": 6
-        },
-        {
-          "Item1": 31,
-          "Item2": 8
-        },
-        {
-          "Item1": 5,
+          "Item1": 45,
           "Item2": 3
         },
         {
-          "Item1": 48,
-          "Item2": 1
+          "Item1": 23,
+          "Item2": 20
+        },
+        {
+          "Item1": 38,
+          "Item2": 5
+        },
+        {
+          "Item1": 35,
+          "Item2": 3
+        },
+        {
+          "Item1": 2,
+          "Item2": 4
+        },
+        {
+          "Item1": 18,
+          "Item2": 3
+        },
+        {
+          "Item1": 29,
+          "Item2": 4
+        },
+        {
+          "Item1": 17,
+          "Item2": 3
+        },
+        {
+          "Item1": 33,
+          "Item2": 9
+        },
+        {
+          "Item1": 10,
+          "Item2": 14
+        },
+        {
+          "Item1": 46,
+          "Item2": 12
+        },
+        {
+          "Item1": 19,
+          "Item2": 20
+        },
+        {
+          "Item1": 16,
+          "Item2": 16
+        },
+        {
+          "Item1": 45,
+          "Item2": 19
         }
       ],
-      "Item2": 30
+      "Item2": 16
     },
-    "answer": 195
+    "answer": 91
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 19,
-          "Item2": 9
-        },
-        {
-          "Item1": 28,
-          "Item2": 13
-        },
-        {
-          "Item1": 28,
-          "Item2": 4
-        },
-        {
-          "Item1": 44,
-          "Item2": 15
-        },
-        {
-          "Item1": 7,
-          "Item2": 19
-        },
-        {
-          "Item1": 44,
-          "Item2": 9
-        },
-        {
-          "Item1": 13,
-          "Item2": 15
-        },
-        {
-          "Item1": 27,
-          "Item2": 6
-        },
-        {
-          "Item1": 22,
-          "Item2": 17
-        },
-        {
-          "Item1": 17,
-          "Item2": 13
-        },
-        {
-          "Item1": 44,
-          "Item2": 5
-        },
-        {
-          "Item1": 37,
-          "Item2": 10
-        },
-        {
-          "Item1": 28,
+          "Item1": 25,
           "Item2": 1
         },
         {
-          "Item1": 37,
-          "Item2": 11
+          "Item1": 41,
+          "Item2": 9
+        }
+      ],
+      "Item2": 15
+    },
+    "answer": 66
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 31,
+          "Item2": 1
+        },
+        {
+          "Item1": 18,
+          "Item2": 2
+        },
+        {
+          "Item1": 6,
+          "Item2": 5
+        },
+        {
+          "Item1": 3,
+          "Item2": 16
+        },
+        {
+          "Item1": 28,
+          "Item2": 14
+        },
+        {
+          "Item1": 39,
+          "Item2": 1
+        },
+        {
+          "Item1": 30,
+          "Item2": 9
+        },
+        {
+          "Item1": 46,
+          "Item2": 20
+        },
+        {
+          "Item1": 7,
+          "Item2": 2
         }
       ],
       "Item2": 14
     },
-    "answer": 88
+    "answer": 118
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 11,
-          "Item2": 7
+          "Item1": 39,
+          "Item2": 15
         },
         {
-          "Item1": 2,
-          "Item2": 12
+          "Item1": 25,
+          "Item2": 14
         },
         {
-          "Item1": 4,
+          "Item1": 32,
           "Item2": 10
         },
         {
-          "Item1": 36,
+          "Item1": 7,
+          "Item2": 18
+        },
+        {
+          "Item1": 25,
+          "Item2": 15
+        },
+        {
+          "Item1": 1,
+          "Item2": 15
+        },
+        {
+          "Item1": 37,
           "Item2": 12
         },
         {
-          "Item1": 11,
+          "Item1": 39,
           "Item2": 15
         },
         {
@@ -275,423 +175,223 @@
           "Item2": 8
         },
         {
-          "Item1": 44,
-          "Item2": 8
-        },
-        {
-          "Item1": 33,
+          "Item1": 7,
           "Item2": 15
         },
         {
-          "Item1": 10,
-          "Item2": 8
-        },
-        {
-          "Item1": 15,
-          "Item2": 15
-        },
-        {
-          "Item1": 17,
-          "Item2": 19
-        },
-        {
-          "Item1": 45,
-          "Item2": 11
-        },
-        {
-          "Item1": 4,
-          "Item2": 13
+          "Item1": 16,
+          "Item2": 5
         },
         {
           "Item1": 3,
-          "Item2": 12
+          "Item2": 10
         },
         {
-          "Item1": 9,
-          "Item2": 15
+          "Item1": 4,
+          "Item2": 9
+        }
+      ],
+      "Item2": 21
+    },
+    "answer": 55
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 38,
+          "Item2": 16
         },
         {
-          "Item1": 7,
+          "Item1": 2,
           "Item2": 20
         },
         {
-          "Item1": 25,
-          "Item2": 3
+          "Item1": 34,
+          "Item2": 9
+        },
+        {
+          "Item1": 7,
+          "Item2": 1
+        },
+        {
+          "Item1": 32,
+          "Item2": 4
+        },
+        {
+          "Item1": 14,
+          "Item2": 6
+        },
+        {
+          "Item1": 4,
+          "Item2": 16
         },
         {
           "Item1": 35,
           "Item2": 13
         },
         {
-          "Item1": 13,
-          "Item2": 11
-        },
-        {
-          "Item1": 49,
-          "Item2": 14
-        }
-      ],
-      "Item2": 12
-    },
-    "answer": 45
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 24,
-          "Item2": 5
-        },
-        {
-          "Item1": 4,
-          "Item2": 6
-        },
-        {
-          "Item1": 50,
-          "Item2": 6
-        },
-        {
           "Item1": 38,
-          "Item2": 5
-        },
-        {
-          "Item1": 1,
-          "Item2": 15
-        },
-        {
-          "Item1": 30,
-          "Item2": 1
-        },
-        {
-          "Item1": 44,
-          "Item2": 16
+          "Item2": 13
         },
         {
           "Item1": 29,
-          "Item2": 10
-        },
-        {
-          "Item1": 44,
-          "Item2": 1
-        },
-        {
-          "Item1": 25,
-          "Item2": 15
-        },
-        {
-          "Item1": 9,
-          "Item2": 2
-        },
-        {
-          "Item1": 30,
-          "Item2": 7
-        },
-        {
-          "Item1": 22,
           "Item2": 6
         },
         {
-          "Item1": 40,
+          "Item1": 35,
           "Item2": 5
+        },
+        {
+          "Item1": 43,
+          "Item2": 5
+        },
+        {
+          "Item1": 38,
+          "Item2": 4
         },
         {
           "Item1": 21,
-          "Item2": 1
-        }
-      ],
-      "Item2": 24
-    },
-    "answer": 168
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 39,
           "Item2": 17
-        },
-        {
-          "Item1": 10,
-          "Item2": 14
-        },
-        {
-          "Item1": 12,
-          "Item2": 4
-        },
-        {
-          "Item1": 1,
-          "Item2": 9
-        },
-        {
-          "Item1": 33,
-          "Item2": 3
-        },
-        {
-          "Item1": 3,
-          "Item2": 7
-        },
-        {
-          "Item1": 44,
-          "Item2": 3
-        },
-        {
-          "Item1": 8,
-          "Item2": 4
-        },
-        {
-          "Item1": 42,
-          "Item2": 12
-        },
-        {
-          "Item1": 33,
-          "Item2": 4
-        },
-        {
-          "Item1": 9,
-          "Item2": 2
-        },
-        {
-          "Item1": 31,
-          "Item2": 20
-        },
-        {
-          "Item1": 49,
-          "Item2": 5
-        },
-        {
-          "Item1": 50,
-          "Item2": 10
-        },
-        {
-          "Item1": 16,
-          "Item2": 9
-        },
-        {
-          "Item1": 40,
-          "Item2": 19
-        },
-        {
-          "Item1": 37,
-          "Item2": 10
-        }
-      ],
-      "Item2": 9
-    },
-    "answer": 93
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 9,
-          "Item2": 13
-        },
-        {
-          "Item1": 27,
-          "Item2": 5
-        },
-        {
-          "Item1": 30,
-          "Item2": 1
-        },
-        {
-          "Item1": 48,
-          "Item2": 5
-        },
-        {
-          "Item1": 39,
-          "Item2": 15
-        },
-        {
-          "Item1": 34,
-          "Item2": 13
-        },
-        {
-          "Item1": 29,
-          "Item2": 2
-        },
-        {
-          "Item1": 7,
-          "Item2": 4
         },
         {
           "Item1": 2,
-          "Item2": 8
+          "Item2": 5
         },
         {
-          "Item1": 16,
-          "Item2": 3
+          "Item1": 45,
+          "Item2": 4
         },
         {
-          "Item1": 27,
-          "Item2": 3
-        },
-        {
-          "Item1": 38,
-          "Item2": 20
-        },
-        {
-          "Item1": 44,
-          "Item2": 7
-        },
-        {
-          "Item1": 27,
-          "Item2": 1
-        },
-        {
-          "Item1": 47,
-          "Item2": 8
-        },
-        {
-          "Item1": 7,
-          "Item2": 7
-        },
-        {
-          "Item1": 16,
-          "Item2": 17
-        },
-        {
-          "Item1": 9,
-          "Item2": 20
-        },
-        {
-          "Item1": 39,
-          "Item2": 19
-        }
-      ],
-      "Item2": 15
-    },
-    "answer": 152
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 43,
-          "Item2": 17
-        },
-        {
-          "Item1": 31,
-          "Item2": 1
-        },
-        {
-          "Item1": 3,
-          "Item2": 18
-        },
-        {
-          "Item1": 3,
-          "Item2": 18
-        },
-        {
-          "Item1": 17,
-          "Item2": 11
-        },
-        {
-          "Item1": 6,
-          "Item2": 11
-        },
-        {
-          "Item1": 43,
-          "Item2": 15
-        },
-        {
-          "Item1": 16,
-          "Item2": 6
-        },
-        {
-          "Item1": 12,
-          "Item2": 12
-        },
-        {
-          "Item1": 29,
-          "Item2": 10
-        },
-        {
-          "Item1": 23,
-          "Item2": 17
-        },
-        {
-          "Item1": 49,
-          "Item2": 20
-        },
-        {
-          "Item1": 25,
-          "Item2": 13
-        },
-        {
-          "Item1": 17,
-          "Item2": 15
-        }
-      ],
-      "Item2": 16
-    },
-    "answer": 74
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 10,
-          "Item2": 2
-        },
-        {
-          "Item1": 36,
-          "Item2": 17
-        },
-        {
-          "Item1": 36,
-          "Item2": 6
+          "Item1": 18,
+          "Item2": 5
         },
         {
           "Item1": 46,
-          "Item2": 7
+          "Item2": 2
         },
         {
-          "Item1": 33,
-          "Item2": 2
+          "Item1": 37,
+          "Item2": 6
         }
       ],
-      "Item2": 22
+      "Item2": 26
     },
-    "answer": 125
+    "answer": 244
   },
   {
     "query": {
       "Item1": [
-        {
-          "Item1": 33,
-          "Item2": 17
-        },
-        {
-          "Item1": 33,
-          "Item2": 6
-        },
-        {
-          "Item1": 3,
-          "Item2": 10
-        },
         {
           "Item1": 41,
           "Item2": 5
         },
         {
-          "Item1": 7,
-          "Item2": 9
-        },
-        {
-          "Item1": 28,
+          "Item1": 44,
           "Item2": 18
         },
         {
+          "Item1": 43,
+          "Item2": 9
+        },
+        {
+          "Item1": 13,
+          "Item2": 13
+        },
+        {
+          "Item1": 27,
+          "Item2": 7
+        }
+      ],
+      "Item2": 19
+    },
+    "answer": 44
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 23,
+          "Item2": 3
+        },
+        {
+          "Item1": 21,
+          "Item2": 5
+        },
+        {
+          "Item1": 43,
+          "Item2": 13
+        },
+        {
+          "Item1": 7,
+          "Item2": 8
+        },
+        {
+          "Item1": 28,
+          "Item2": 10
+        }
+      ],
+      "Item2": 22
+    },
+    "answer": 87
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 40,
+          "Item2": 20
+        },
+        {
           "Item1": 19,
+          "Item2": 7
+        },
+        {
+          "Item1": 30,
+          "Item2": 19
+        },
+        {
+          "Item1": 41,
           "Item2": 10
         },
         {
-          "Item1": 14,
-          "Item2": 16
+          "Item1": 9,
+          "Item2": 12
+        },
+        {
+          "Item1": 42,
+          "Item2": 20
+        },
+        {
+          "Item1": 38,
+          "Item2": 18
+        },
+        {
+          "Item1": 49,
+          "Item2": 12
+        },
+        {
+          "Item1": 38,
+          "Item2": 12
+        },
+        {
+          "Item1": 4,
+          "Item2": 17
+        },
+        {
+          "Item1": 16,
+          "Item2": 1
+        },
+        {
+          "Item1": 41,
+          "Item2": 3
+        },
+        {
+          "Item1": 50,
+          "Item2": 19
         }
       ],
-      "Item2": 6
+      "Item2": 10
     },
     "answer": 41
   },
@@ -699,59 +399,43 @@
     "query": {
       "Item1": [
         {
-          "Item1": 7,
-          "Item2": 12
-        },
-        {
-          "Item1": 50,
-          "Item2": 13
-        },
-        {
-          "Item1": 23,
-          "Item2": 13
-        },
-        {
-          "Item1": 13,
-          "Item2": 7
+          "Item1": 34,
+          "Item2": 3
         },
         {
           "Item1": 47,
-          "Item2": 3
+          "Item2": 15
         },
         {
-          "Item1": 46,
-          "Item2": 3
+          "Item1": 28,
+          "Item2": 1
         },
         {
-          "Item1": 32,
-          "Item2": 18
-        }
-      ],
-      "Item2": 19
-    },
-    "answer": 143
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 19,
-          "Item2": 2
+          "Item1": 40,
+          "Item2": 14
         },
         {
-          "Item1": 18,
-          "Item2": 10
-        },
-        {
-          "Item1": 3,
-          "Item2": 3
-        },
-        {
-          "Item1": 2,
+          "Item1": 28,
           "Item2": 1
         },
         {
           "Item1": 42,
+          "Item2": 19
+        },
+        {
+          "Item1": 41,
+          "Item2": 10
+        },
+        {
+          "Item1": 35,
+          "Item2": 10
+        },
+        {
+          "Item1": 28,
+          "Item2": 10
+        },
+        {
+          "Item1": 49,
           "Item2": 9
         },
         {
@@ -759,551 +443,715 @@
           "Item2": 8
         },
         {
-          "Item1": 31,
-          "Item2": 11
-        },
-        {
-          "Item1": 39,
-          "Item2": 6
-        },
-        {
-          "Item1": 46,
-          "Item2": 11
-        },
-        {
-          "Item1": 9,
-          "Item2": 1
-        },
-        {
-          "Item1": 2,
-          "Item2": 12
-        },
-        {
-          "Item1": 20,
+          "Item1": 23,
           "Item2": 8
+        },
+        {
+          "Item1": 5,
+          "Item2": 13
+        },
+        {
+          "Item1": 43,
+          "Item2": 20
+        },
+        {
+          "Item1": 43,
+          "Item2": 19
+        },
+        {
+          "Item1": 11,
+          "Item2": 14
+        },
+        {
+          "Item1": 6,
+          "Item2": 10
+        },
+        {
+          "Item1": 50,
+          "Item2": 5
         }
       ],
-      "Item2": 27
+      "Item2": 22
     },
-    "answer": 136
+    "answer": 189
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 11,
-          "Item2": 18
-        },
-        {
-          "Item1": 48,
-          "Item2": 3
-        },
-        {
-          "Item1": 18,
-          "Item2": 19
-        },
-        {
-          "Item1": 39,
+          "Item1": 24,
           "Item2": 4
         },
         {
-          "Item1": 10,
+          "Item1": 34,
+          "Item2": 16
+        },
+        {
+          "Item1": 41,
+          "Item2": 6
+        },
+        {
+          "Item1": 46,
           "Item2": 12
         },
         {
-          "Item1": 16,
+          "Item1": 29,
+          "Item2": 3
+        },
+        {
+          "Item1": 1,
           "Item2": 7
         },
         {
-          "Item1": 47,
-          "Item2": 2
-        },
-        {
-          "Item1": 24,
+          "Item1": 37,
           "Item2": 13
         },
         {
-          "Item1": 28,
-          "Item2": 1
+          "Item1": 16,
+          "Item2": 2
+        },
+        {
+          "Item1": 25,
+          "Item2": 6
+        },
+        {
+          "Item1": 1,
+          "Item2": 3
+        },
+        {
+          "Item1": 17,
+          "Item2": 16
+        },
+        {
+          "Item1": 33,
+          "Item2": 3
+        },
+        {
+          "Item1": 33,
+          "Item2": 11
+        },
+        {
+          "Item1": 35,
+          "Item2": 2
+        }
+      ],
+      "Item2": 16
+    },
+    "answer": 97
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 23,
+          "Item2": 16
         },
         {
           "Item1": 29,
+          "Item2": 2
+        },
+        {
+          "Item1": 31,
+          "Item2": 4
+        },
+        {
+          "Item1": 11,
+          "Item2": 10
+        },
+        {
+          "Item1": 2,
           "Item2": 7
+        },
+        {
+          "Item1": 45,
+          "Item2": 6
+        },
+        {
+          "Item1": 24,
+          "Item2": 14
+        },
+        {
+          "Item1": 24,
+          "Item2": 14
+        },
+        {
+          "Item1": 8,
+          "Item2": 18
+        },
+        {
+          "Item1": 18,
+          "Item2": 20
+        },
+        {
+          "Item1": 10,
+          "Item2": 16
+        },
+        {
+          "Item1": 2,
+          "Item2": 10
+        },
+        {
+          "Item1": 18,
+          "Item2": 14
+        },
+        {
+          "Item1": 43,
+          "Item2": 3
         },
         {
           "Item1": 43,
           "Item2": 7
         },
         {
-          "Item1": 34,
+          "Item1": 1,
+          "Item2": 8
+        },
+        {
+          "Item1": 38,
+          "Item2": 12
+        },
+        {
+          "Item1": 36,
+          "Item2": 19
+        },
+        {
+          "Item1": 7,
+          "Item2": 10
+        },
+        {
+          "Item1": 7,
+          "Item2": 6
+        }
+      ],
+      "Item2": 15
+    },
+    "answer": 117
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 21,
+          "Item2": 20
+        },
+        {
+          "Item1": 38,
           "Item2": 17
         },
         {
+          "Item1": 24,
+          "Item2": 9
+        },
+        {
+          "Item1": 11,
+          "Item2": 7
+        },
+        {
+          "Item1": 17,
+          "Item2": 10
+        },
+        {
+          "Item1": 24,
+          "Item2": 5
+        },
+        {
+          "Item1": 10,
+          "Item2": 15
+        },
+        {
+          "Item1": 40,
+          "Item2": 18
+        },
+        {
+          "Item1": 25,
+          "Item2": 4
+        },
+        {
+          "Item1": 7,
+          "Item2": 13
+        },
+        {
+          "Item1": 20,
+          "Item2": 5
+        },
+        {
           "Item1": 6,
-          "Item2": 4
+          "Item2": 12
         },
         {
-          "Item1": 44,
-          "Item2": 4
+          "Item1": 19,
+          "Item2": 9
         },
         {
-          "Item1": 32,
-          "Item2": 20
+          "Item1": 5,
+          "Item2": 16
+        },
+        {
+          "Item1": 31,
+          "Item2": 2
+        },
+        {
+          "Item1": 6,
+          "Item2": 14
+        },
+        {
+          "Item1": 36,
+          "Item2": 13
+        },
+        {
+          "Item1": 35,
+          "Item2": 2
+        },
+        {
+          "Item1": 6,
+          "Item2": 16
+        }
+      ],
+      "Item2": 25
+    },
+    "answer": 106
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 40,
+          "Item2": 1
+        },
+        {
+          "Item1": 4,
+          "Item2": 15
+        },
+        {
+          "Item1": 29,
+          "Item2": 6
         }
       ],
       "Item2": 10
     },
-    "answer": 167
+    "answer": 69
   },
   {
     "query": {
       "Item1": [
-        {
-          "Item1": 33,
-          "Item2": 14
-        },
-        {
-          "Item1": 33,
-          "Item2": 4
-        },
-        {
-          "Item1": 2,
-          "Item2": 7
-        },
         {
           "Item1": 7,
           "Item2": 1
-        },
-        {
-          "Item1": 48,
-          "Item2": 15
-        },
-        {
-          "Item1": 44,
-          "Item2": 15
         }
       ],
-      "Item2": 13
+      "Item2": 19
     },
-    "answer": 42
+    "answer": 7
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 1,
-          "Item2": 4
+          "Item1": 23,
+          "Item2": 1
         },
         {
-          "Item1": 1,
-          "Item2": 14
-        },
-        {
-          "Item1": 27,
-          "Item2": 11
-        },
-        {
-          "Item1": 49,
-          "Item2": 13
-        },
-        {
-          "Item1": 18,
-          "Item2": 7
-        },
-        {
-          "Item1": 37,
-          "Item2": 16
-        },
-        {
-          "Item1": 24,
-          "Item2": 7
-        },
-        {
-          "Item1": 42,
-          "Item2": 19
-        },
-        {
-          "Item1": 34,
-          "Item2": 5
-        },
-        {
-          "Item1": 12,
-          "Item2": 2
-        },
-        {
-          "Item1": 46,
-          "Item2": 11
-        },
-        {
-          "Item1": 35,
-          "Item2": 11
-        },
-        {
-          "Item1": 17,
-          "Item2": 13
-        },
-        {
-          "Item1": 16,
+          "Item1": 14,
           "Item2": 10
+        },
+        {
+          "Item1": 30,
+          "Item2": 20
+        },
+        {
+          "Item1": 14,
+          "Item2": 3
         },
         {
           "Item1": 19,
-          "Item2": 10
-        },
-        {
-          "Item1": 42,
-          "Item2": 6
-        }
-      ],
-      "Item2": 28
-    },
-    "answer": 107
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 20,
-          "Item2": 10
-        },
-        {
-          "Item1": 34,
-          "Item2": 20
-        },
-        {
-          "Item1": 12,
-          "Item2": 6
-        },
-        {
-          "Item1": 44,
-          "Item2": 6
-        }
-      ],
-      "Item2": 16
-    },
-    "answer": 64
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 7,
-          "Item2": 18
-        },
-        {
-          "Item1": 42,
-          "Item2": 11
-        },
-        {
-          "Item1": 39,
           "Item2": 19
         },
         {
-          "Item1": 46,
-          "Item2": 1
-        },
-        {
-          "Item1": 6,
-          "Item2": 8
-        },
-        {
-          "Item1": 33,
-          "Item2": 11
-        },
-        {
-          "Item1": 12,
-          "Item2": 11
-        }
-      ],
-      "Item2": 16
-    },
-    "answer": 88
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 29,
-          "Item2": 16
-        },
-        {
-          "Item1": 35,
-          "Item2": 20
-        },
-        {
-          "Item1": 42,
-          "Item2": 17
-        },
-        {
-          "Item1": 39,
-          "Item2": 20
-        },
-        {
-          "Item1": 42,
-          "Item2": 7
-        },
-        {
-          "Item1": 23,
-          "Item2": 6
-        },
-        {
-          "Item1": 15,
-          "Item2": 13
-        },
-        {
-          "Item1": 26,
-          "Item2": 14
-        },
-        {
           "Item1": 47,
-          "Item2": 7
-        },
-        {
-          "Item1": 10,
-          "Item2": 4
-        },
-        {
-          "Item1": 46,
-          "Item2": 15
-        },
-        {
-          "Item1": 22,
-          "Item2": 11
-        },
-        {
-          "Item1": 22,
-          "Item2": 8
+          "Item2": 5
         },
         {
           "Item1": 18,
           "Item2": 15
-        }
-      ],
-      "Item2": 18
-    },
-    "answer": 99
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 38,
-          "Item2": 5
-        },
-        {
-          "Item1": 12,
-          "Item2": 12
-        },
-        {
-          "Item1": 37,
-          "Item2": 13
-        },
-        {
-          "Item1": 31,
-          "Item2": 8
-        },
-        {
-          "Item1": 33,
-          "Item2": 16
-        },
-        {
-          "Item1": 31,
-          "Item2": 15
-        },
-        {
-          "Item1": 31,
-          "Item2": 14
-        },
-        {
-          "Item1": 46,
-          "Item2": 10
-        },
-        {
-          "Item1": 45,
-          "Item2": 8
-        },
-        {
-          "Item1": 49,
-          "Item2": 20
-        },
-        {
-          "Item1": 46,
-          "Item2": 4
-        },
-        {
-          "Item1": 9,
-          "Item2": 16
-        },
-        {
-          "Item1": 31,
-          "Item2": 18
         },
         {
           "Item1": 16,
-          "Item2": 2
-        },
-        {
-          "Item1": 49,
-          "Item2": 14
-        },
-        {
-          "Item1": 1,
           "Item2": 7
-        }
-      ],
-      "Item2": 24
-    },
-    "answer": 95
-  },
-  {
-    "query": {
-      "Item1": [
-        {
-          "Item1": 9,
-          "Item2": 16
         },
         {
-          "Item1": 6,
-          "Item2": 13
-        }
-      ],
-      "Item2": 12
-    },
-    "answer": 0
-  },
-  {
-    "query": {
-      "Item1": [
+          "Item1": 3,
+          "Item2": 1
+        },
+        {
+          "Item1": 44,
+          "Item2": 4
+        },
+        {
+          "Item1": 19,
+          "Item2": 18
+        },
+        {
+          "Item1": 42,
+          "Item2": 8
+        },
+        {
+          "Item1": 28,
+          "Item2": 5
+        },
+        {
+          "Item1": 19,
+          "Item2": 17
+        },
         {
           "Item1": 50,
           "Item2": 18
         },
         {
-          "Item1": 21,
-          "Item2": 4
+          "Item1": 7,
+          "Item2": 14
         },
         {
-          "Item1": 48,
-          "Item2": 15
+          "Item1": 4,
+          "Item2": 12
         },
         {
-          "Item1": 15,
-          "Item2": 13
-        },
-        {
-          "Item1": 39,
-          "Item2": 15
-        },
-        {
-          "Item1": 20,
-          "Item2": 20
-        },
-        {
-          "Item1": 44,
-          "Item2": 13
+          "Item1": 41,
+          "Item2": 18
         }
       ],
-      "Item2": 24
+      "Item2": 15
     },
-    "answer": 71
+    "answer": 142
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 15,
-          "Item2": 7
+          "Item1": 34,
+          "Item2": 20
+        },
+        {
+          "Item1": 28,
+          "Item2": 4
+        },
+        {
+          "Item1": 12,
+          "Item2": 8
+        },
+        {
+          "Item1": 49,
+          "Item2": 20
+        },
+        {
+          "Item1": 48,
+          "Item2": 16
+        },
+        {
+          "Item1": 8,
+          "Item2": 5
+        }
+      ],
+      "Item2": 19
+    },
+    "answer": 48
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 9,
+          "Item2": 13
+        },
+        {
+          "Item1": 13,
+          "Item2": 16
+        },
+        {
+          "Item1": 14,
+          "Item2": 13
+        },
+        {
+          "Item1": 44,
+          "Item2": 11
+        },
+        {
+          "Item1": 30,
+          "Item2": 6
+        }
+      ],
+      "Item2": 22
+    },
+    "answer": 74
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 48,
+          "Item2": 16
+        },
+        {
+          "Item1": 44,
+          "Item2": 14
+        },
+        {
+          "Item1": 41,
+          "Item2": 20
+        },
+        {
+          "Item1": 14,
+          "Item2": 16
+        },
+        {
+          "Item1": 16,
+          "Item2": 5
+        }
+      ],
+      "Item2": 30
+    },
+    "answer": 92
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 3,
+          "Item2": 16
+        },
+        {
+          "Item1": 10,
+          "Item2": 15
         },
         {
           "Item1": 30,
           "Item2": 18
         },
         {
-          "Item1": 23,
-          "Item2": 8
+          "Item1": 14,
+          "Item2": 6
         },
         {
-          "Item1": 18,
-          "Item2": 20
-        },
-        {
-          "Item1": 32,
-          "Item2": 20
+          "Item1": 13,
+          "Item2": 12
         },
         {
           "Item1": 8,
-          "Item2": 11
-        },
-        {
-          "Item1": 33,
-          "Item2": 14
-        },
-        {
-          "Item1": 21,
-          "Item2": 11
-        },
-        {
-          "Item1": 19,
-          "Item2": 4
-        },
-        {
-          "Item1": 29,
-          "Item2": 17
-        },
-        {
-          "Item1": 26,
           "Item2": 8
-        },
-        {
-          "Item1": 7,
-          "Item2": 4
         }
       ],
-      "Item2": 9
+      "Item2": 28
     },
-    "answer": 26
+    "answer": 44
   },
   {
     "query": {
       "Item1": [
         {
-          "Item1": 7,
-          "Item2": 20
-        },
-        {
-          "Item1": 20,
-          "Item2": 12
-        },
-        {
-          "Item1": 4,
+          "Item1": 41,
           "Item2": 14
         },
         {
-          "Item1": 36,
-          "Item2": 1
-        },
-        {
-          "Item1": 2,
-          "Item2": 7
-        },
-        {
-          "Item1": 2,
-          "Item2": 6
-        },
-        {
-          "Item1": 47,
-          "Item2": 5
-        },
-        {
           "Item1": 42,
+          "Item2": 12
+        },
+        {
+          "Item1": 15,
+          "Item2": 9
+        },
+        {
+          "Item1": 11,
+          "Item2": 2
+        },
+        {
+          "Item1": 32,
+          "Item2": 15
+        }
+      ],
+      "Item2": 15
+    },
+    "answer": 53
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 22,
           "Item2": 11
         },
         {
-          "Item1": 35,
+          "Item1": 5,
+          "Item2": 2
+        },
+        {
+          "Item1": 46,
+          "Item2": 19
+        },
+        {
+          "Item1": 20,
+          "Item2": 5
+        },
+        {
+          "Item1": 30,
+          "Item2": 6
+        },
+        {
+          "Item1": 6,
+          "Item2": 19
+        },
+        {
+          "Item1": 14,
+          "Item2": 3
+        },
+        {
+          "Item1": 20,
+          "Item2": 13
+        },
+        {
+          "Item1": 40,
+          "Item2": 12
+        }
+      ],
+      "Item2": 18
+    },
+    "answer": 70
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 30,
+          "Item2": 1
+        },
+        {
+          "Item1": 45,
+          "Item2": 6
+        },
+        {
+          "Item1": 39,
+          "Item2": 10
+        },
+        {
+          "Item1": 46,
+          "Item2": 10
+        },
+        {
+          "Item1": 30,
           "Item2": 18
         },
         {
+          "Item1": 9,
+          "Item2": 16
+        },
+        {
+          "Item1": 21,
+          "Item2": 20
+        },
+        {
+          "Item1": 17,
+          "Item2": 15
+        },
+        {
+          "Item1": 5,
+          "Item2": 4
+        },
+        {
+          "Item1": 49,
+          "Item2": 15
+        }
+      ],
+      "Item2": 20
+    },
+    "answer": 84
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 49,
+          "Item2": 4
+        },
+        {
+          "Item1": 45,
+          "Item2": 1
+        },
+        {
+          "Item1": 11,
+          "Item2": 4
+        },
+        {
+          "Item1": 32,
+          "Item2": 6
+        },
+        {
+          "Item1": 15,
+          "Item2": 1
+        },
+        {
           "Item1": 28,
+          "Item2": 7
+        },
+        {
+          "Item1": 38,
+          "Item2": 7
+        },
+        {
+          "Item1": 25,
+          "Item2": 9
+        },
+        {
+          "Item1": 23,
+          "Item2": 4
+        },
+        {
+          "Item1": 10,
+          "Item2": 1
+        }
+      ],
+      "Item2": 22
+    },
+    "answer": 187
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 46,
+          "Item2": 6
+        },
+        {
+          "Item1": 5,
+          "Item2": 5
+        },
+        {
+          "Item1": 33,
+          "Item2": 15
+        },
+        {
+          "Item1": 13,
+          "Item2": 3
+        },
+        {
+          "Item1": 33,
+          "Item2": 20
+        }
+      ],
+      "Item2": 12
+    },
+    "answer": 59
+  },
+  {
+    "query": {
+      "Item1": [
+        {
+          "Item1": 19,
+          "Item2": 16
+        },
+        {
+          "Item1": 28,
+          "Item2": 9
+        },
+        {
+          "Item1": 6,
           "Item2": 11
         },
         {
@@ -1311,36 +1159,72 @@
           "Item2": 15
         },
         {
-          "Item1": 45,
+          "Item1": 37,
           "Item2": 19
         },
         {
-          "Item1": 42,
-          "Item2": 3
+          "Item1": 26,
+          "Item2": 12
         },
         {
-          "Item1": 46,
-          "Item2": 7
+          "Item1": 47,
+          "Item2": 9
         },
         {
-          "Item1": 11,
-          "Item2": 17
-        },
-        {
-          "Item1": 45,
-          "Item2": 5
-        },
-        {
-          "Item1": 9,
+          "Item1": 27,
           "Item2": 15
         },
         {
-          "Item1": 40,
-          "Item2": 8
+          "Item1": 25,
+          "Item2": 1
+        },
+        {
+          "Item1": 26,
+          "Item2": 5
+        },
+        {
+          "Item1": 4,
+          "Item2": 3
+        },
+        {
+          "Item1": 15,
+          "Item2": 16
+        },
+        {
+          "Item1": 48,
+          "Item2": 4
+        },
+        {
+          "Item1": 32,
+          "Item2": 17
+        },
+        {
+          "Item1": 8,
+          "Item2": 11
+        },
+        {
+          "Item1": 23,
+          "Item2": 12
+        },
+        {
+          "Item1": 14,
+          "Item2": 9
+        },
+        {
+          "Item1": 32,
+          "Item2": 11
+        },
+        {
+          "Item1": 49,
+          "Item2": 18
+        },
+        {
+          "Item1": 34,
+          "Item2": 19
         }
       ],
-      "Item2": 30
+      "Item2": 17
     },
-    "answer": 256
+    "answer": 124
   }
 ]

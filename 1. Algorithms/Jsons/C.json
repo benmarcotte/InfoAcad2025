@@ -1,0 +1,859 @@
+[
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 63,
+          "Item2": 69
+        }
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 79,
+          "Item2": 93
+        }
+      },
+      {
+        "position": {
+          "Item1": 85,
+          "Item2": 66
+        }
+      },
+      {
+        "position": {
+          "Item1": 47,
+          "Item2": 54
+        }
+      },
+      {
+        "position": {
+          "Item1": 26,
+          "Item2": 78
+        }
+      },
+      {
+        "position": {
+          "Item1": 73,
+          "Item2": 15
+        }
+      }
+    ],
+    "answer": 213.9
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 15,
+          "Item2": 66
+        }
+      },
+      {
+        "position": {
+          "Item1": 28,
+          "Item2": 55
+        }
+      },
+      {
+        "position": {
+          "Item1": 78,
+          "Item2": 94
+        }
+      },
+      {
+        "position": {
+          "Item1": 96,
+          "Item2": 92
+        }
+      },
+      {
+        "position": {
+          "Item1": 80,
+          "Item2": 56
+        }
+      },
+      {
+        "position": {
+          "Item1": 67,
+          "Item2": 29
+        }
+      },
+      {
+        "position": {
+          "Item1": 18,
+          "Item2": 35
+        }
+      },
+      {
+        "position": {
+          "Item1": 70,
+          "Item2": 88
+        }
+      },
+      {
+        "position": {
+          "Item1": 23,
+          "Item2": 14
+        }
+      },
+      {
+        "position": {
+          "Item1": 77,
+          "Item2": 39
+        }
+      }
+    ],
+    "answer": 265.61
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 0,
+          "Item2": 79
+        }
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 97,
+          "Item2": 18
+        }
+      },
+      {
+        "position": {
+          "Item1": 32,
+          "Item2": 93
+        }
+      },
+      {
+        "position": {
+          "Item1": 50,
+          "Item2": 40
+        }
+      },
+      {
+        "position": {
+          "Item1": 51,
+          "Item2": 51
+        }
+      },
+      {
+        "position": {
+          "Item1": 97,
+          "Item2": 5
+        }
+      },
+      {
+        "position": {
+          "Item1": 78,
+          "Item2": 32
+        }
+      }
+    ],
+    "answer": 228.74
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 40,
+          "Item2": 63
+        }
+      },
+      {
+        "position": {
+          "Item1": 59,
+          "Item2": 3
+        }
+      },
+      {
+        "position": {
+          "Item1": 74,
+          "Item2": 47
+        }
+      },
+      {
+        "position": {
+          "Item1": 15,
+          "Item2": 18
+        }
+      }
+    ],
+    "answer": 182.03
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 94,
+          "Item2": 55
+        }
+      },
+      {
+        "position": {
+          "Item1": 26,
+          "Item2": 54
+        }
+      }
+    ],
+    "answer": 136.01
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 77,
+          "Item2": 44
+        }
+      },
+      {
+        "position": {
+          "Item1": 48,
+          "Item2": 25
+        }
+      },
+      {
+        "position": {
+          "Item1": 11,
+          "Item2": 59
+        }
+      }
+    ],
+    "answer": 152.6
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 20,
+          "Item2": 0
+        }
+      },
+      {
+        "position": {
+          "Item1": 60,
+          "Item2": 41
+        }
+      },
+      {
+        "position": {
+          "Item1": 25,
+          "Item2": 6
+        }
+      },
+      {
+        "position": {
+          "Item1": 15,
+          "Item2": 54
+        }
+      }
+    ],
+    "answer": 158.38
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 9,
+          "Item2": 97
+        }
+      },
+      {
+        "position": {
+          "Item1": 72,
+          "Item2": 72
+        }
+      },
+      {
+        "position": {
+          "Item1": 30,
+          "Item2": 2
+        }
+      },
+      {
+        "position": {
+          "Item1": 32,
+          "Item2": 47
+        }
+      },
+      {
+        "position": {
+          "Item1": 85,
+          "Item2": 30
+        }
+      },
+      {
+        "position": {
+          "Item1": 70,
+          "Item2": 11
+        }
+      }
+    ],
+    "answer": 277.03
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 56,
+          "Item2": 53
+        }
+      },
+      {
+        "position": {
+          "Item1": 41,
+          "Item2": 6
+        }
+      },
+      {
+        "position": {
+          "Item1": 51,
+          "Item2": 61
+        }
+      }
+    ],
+    "answer": 114.67
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 99,
+          "Item2": 27
+        }
+      },
+      {
+        "position": {
+          "Item1": 94,
+          "Item2": 58
+        }
+      },
+      {
+        "position": {
+          "Item1": 64,
+          "Item2": 7
+        }
+      },
+      {
+        "position": {
+          "Item1": 88,
+          "Item2": 65
+        }
+      },
+      {
+        "position": {
+          "Item1": 19,
+          "Item2": 55
+        }
+      },
+      {
+        "position": {
+          "Item1": 10,
+          "Item2": 85
+        }
+      },
+      {
+        "position": {
+          "Item1": 59,
+          "Item2": 25
+        }
+      },
+      {
+        "position": {
+          "Item1": 85,
+          "Item2": 92
+        }
+      }
+    ],
+    "answer": 283.43
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 11,
+          "Item2": 80
+        }
+      },
+      {
+        "position": {
+          "Item1": 22,
+          "Item2": 34
+        }
+      },
+      {
+        "position": {
+          "Item1": 11,
+          "Item2": 37
+        }
+      }
+    ],
+    "answer": 101.7
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 8,
+          "Item2": 7
+        }
+      },
+      {
+        "position": {
+          "Item1": 61,
+          "Item2": 8
+        }
+      },
+      {
+        "position": {
+          "Item1": 40,
+          "Item2": 12
+        }
+      },
+      {
+        "position": {
+          "Item1": 11,
+          "Item2": 66
+        }
+      },
+      {
+        "position": {
+          "Item1": 15,
+          "Item2": 77
+        }
+      },
+      {
+        "position": {
+          "Item1": 56,
+          "Item2": 30
+        }
+      },
+      {
+        "position": {
+          "Item1": 66,
+          "Item2": 31
+        }
+      },
+      {
+        "position": {
+          "Item1": 99,
+          "Item2": 93
+        }
+      }
+    ],
+    "answer": 312.9
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 13,
+          "Item2": 55
+        }
+      },
+      {
+        "position": {
+          "Item1": 46,
+          "Item2": 18
+        }
+      },
+      {
+        "position": {
+          "Item1": 85,
+          "Item2": 42
+        }
+      }
+    ],
+    "answer": 168.54
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 55,
+          "Item2": 44
+        }
+      },
+      {
+        "position": {
+          "Item1": 70,
+          "Item2": 87
+        }
+      },
+      {
+        "position": {
+          "Item1": 13,
+          "Item2": 6
+        }
+      },
+      {
+        "position": {
+          "Item1": 45,
+          "Item2": 75
+        }
+      },
+      {
+        "position": {
+          "Item1": 16,
+          "Item2": 71
+        }
+      },
+      {
+        "position": {
+          "Item1": 63,
+          "Item2": 30
+        }
+      },
+      {
+        "position": {
+          "Item1": 76,
+          "Item2": 69
+        }
+      },
+      {
+        "position": {
+          "Item1": 20,
+          "Item2": 57
+        }
+      },
+      {
+        "position": {
+          "Item1": 71,
+          "Item2": 50
+        }
+      },
+      {
+        "position": {
+          "Item1": 59,
+          "Item2": 23
+        }
+      },
+      {
+        "position": {
+          "Item1": 84,
+          "Item2": 40
+        }
+      }
+    ],
+    "answer": 278.82
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 8,
+          "Item2": 92
+        }
+      },
+      {
+        "position": {
+          "Item1": 40,
+          "Item2": 10
+        }
+      }
+    ],
+    "answer": 176.05
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 42,
+          "Item2": 71
+        }
+      },
+      {
+        "position": {
+          "Item1": 33,
+          "Item2": 43
+        }
+      },
+      {
+        "position": {
+          "Item1": 74,
+          "Item2": 80
+        }
+      },
+      {
+        "position": {
+          "Item1": 71,
+          "Item2": 88
+        }
+      },
+      {
+        "position": {
+          "Item1": 75,
+          "Item2": 94
+        }
+      },
+      {
+        "position": {
+          "Item1": 20,
+          "Item2": 50
+        }
+      }
+    ],
+    "answer": 155.27
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 43,
+          "Item2": 17
+        }
+      },
+      {
+        "position": {
+          "Item1": 0,
+          "Item2": 87
+        }
+      },
+      {
+        "position": {
+          "Item1": 27,
+          "Item2": 1
+        }
+      },
+      {
+        "position": {
+          "Item1": 57,
+          "Item2": 69
+        }
+      },
+      {
+        "position": {
+          "Item1": 30,
+          "Item2": 49
+        }
+      },
+      {
+        "position": {
+          "Item1": 97,
+          "Item2": 54
+        }
+      },
+      {
+        "position": {
+          "Item1": 75,
+          "Item2": 0
+        }
+      },
+      {
+        "position": {
+          "Item1": 8,
+          "Item2": 25
+        }
+      }
+    ],
+    "answer": 331.25
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 42,
+          "Item2": 73
+        }
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 29,
+          "Item2": 69
+        }
+      },
+      {
+        "position": {
+          "Item1": 24,
+          "Item2": 16
+        }
+      },
+      {
+        "position": {
+          "Item1": 88,
+          "Item2": 88
+        }
+      }
+    ],
+    "answer": 211.55
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 98,
+          "Item2": 58
+        }
+      },
+      {
+        "position": {
+          "Item1": 29,
+          "Item2": 99
+        }
+      },
+      {
+        "position": {
+          "Item1": 88,
+          "Item2": 46
+        }
+      },
+      {
+        "position": {
+          "Item1": 26,
+          "Item2": 28
+        }
+      }
+    ],
+    "answer": 231.51
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 97,
+          "Item2": 44
+        }
+      },
+      {
+        "position": {
+          "Item1": 35,
+          "Item2": 11
+        }
+      },
+      {
+        "position": {
+          "Item1": 89,
+          "Item2": 24
+        }
+      },
+      {
+        "position": {
+          "Item1": 41,
+          "Item2": 48
+        }
+      },
+      {
+        "position": {
+          "Item1": 47,
+          "Item2": 40
+        }
+      },
+      {
+        "position": {
+          "Item1": 93,
+          "Item2": 67
+        }
+      },
+      {
+        "position": {
+          "Item1": 97,
+          "Item2": 70
+        }
+      },
+      {
+        "position": {
+          "Item1": 36,
+          "Item2": 99
+        }
+      }
+    ],
+    "answer": 265.6
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 77,
+          "Item2": 18
+        }
+      },
+      {
+        "position": {
+          "Item1": 85,
+          "Item2": 18
+        }
+      },
+      {
+        "position": {
+          "Item1": 43,
+          "Item2": 43
+        }
+      },
+      {
+        "position": {
+          "Item1": 33,
+          "Item2": 88
+        }
+      },
+      {
+        "position": {
+          "Item1": 25,
+          "Item2": 50
+        }
+      },
+      {
+        "position": {
+          "Item1": 92,
+          "Item2": 65
+        }
+      },
+      {
+        "position": {
+          "Item1": 12,
+          "Item2": 16
+        }
+      },
+      {
+        "position": {
+          "Item1": 83,
+          "Item2": 67
+        }
+      },
+      {
+        "position": {
+          "Item1": 40,
+          "Item2": 37
+        }
+      },
+      {
+        "position": {
+          "Item1": 54,
+          "Item2": 13
+        }
+      },
+      {
+        "position": {
+          "Item1": 17,
+          "Item2": 69
+        }
+      }
+    ],
+    "answer": 291.09
+  },
+  {
+    "nodes": [
+      {
+        "position": {
+          "Item1": 6,
+          "Item2": 41
+        }
+      }
+    ],
+    "answer": 0
+  }
+]

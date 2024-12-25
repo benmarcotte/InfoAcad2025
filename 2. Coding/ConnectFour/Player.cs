@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConnectFour
 {
-    internal interface Player
+    internal abstract class Player(char id)
     {
-        abstract int DoMove(Board board);
+        public char id = id;
+        public abstract int DoMove(Board board);
     }
 }

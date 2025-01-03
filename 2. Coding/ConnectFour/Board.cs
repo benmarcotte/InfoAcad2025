@@ -10,7 +10,7 @@ namespace ConnectFour
 {
     internal class Board
     {
-        public List<List<char>> board = [];
+        public List<List<char>> grid = [];
         public const int MAX_COLUMNS = 7;
         public const int HEIGHT = 6;
         public int decisiveMove = -1;
@@ -19,7 +19,7 @@ namespace ConnectFour
         {
             for(int i = 0; i < MAX_COLUMNS; i++)
             {
-                board.Add(new List<char>());
+                grid.Add(new List<char>());
             }
         }
 
@@ -37,12 +37,12 @@ namespace ConnectFour
                 decisiveMove = columnIndex;
                 throw new ArgumentOutOfRangeException("Column index out of bounds");
             }
-            if (board[columnIndex].Count == 6)
+            if (grid[columnIndex].Count == 6)
             {
                 decisiveMove = columnIndex;
                 throw new ArgumentOutOfRangeException("Column already full");
             }
-            board[columnIndex].Add(player);
+            grid[columnIndex].Add(player);
 
             return CheckWin(columnIndex, player);
         }
@@ -57,7 +57,7 @@ namespace ConnectFour
         {
             //checking vertical
             int counter = 0;
-            foreach (char c in board[columnIndex])
+            foreach (char c in grid[columnIndex])
             {
                 if (c == player)
                 {
@@ -76,13 +76,13 @@ namespace ConnectFour
             counter = 0;
             
             //checking horizontal
-            int rowIndex = board[columnIndex].Count - 1;
+            int rowIndex = grid[columnIndex].Count - 1;
 
             for (int i = 0; i < MAX_COLUMNS; i++)
             {
-                if (rowIndex < board[i].Count)
+                if (rowIndex < grid[i].Count)
                 {
-                    if (board[i][rowIndex] == player)
+                    if (grid[i][rowIndex] == player)
                     {
                         counter++;
                         if (counter == 4)
@@ -104,15 +104,15 @@ namespace ConnectFour
             counter = 0;
 
             //checkin diags
-            int column = columnIndex - (HEIGHT - board[columnIndex].Count);
+            int column = columnIndex - (HEIGHT - grid[columnIndex].Count);
             int row = HEIGHT - 1;
             while (column < MAX_COLUMNS - 1 && row >= 0)
             {
                 if (column >= 0)
                 {
-                    if (row < board[column].Count)
+                    if (row < grid[column].Count)
                     {
-                        if (board[column][row] == player)
+                        if (grid[column][row] == player)
                         {
                             counter++;
                             if (counter == 4)
@@ -136,15 +136,15 @@ namespace ConnectFour
             }
 
             counter = 0;
-            column = columnIndex + (HEIGHT - board[columnIndex].Count);
+            column = columnIndex + (HEIGHT - grid[columnIndex].Count);
             row = HEIGHT - 1;
             while (column >= 0 && row >= 0)
             {
                 if (column < MAX_COLUMNS)
                 {
-                    if (row < board[column].Count)
+                    if (row < grid[column].Count)
                     {
-                        if (board[column][row] == player)
+                        if (grid[column][row] == player)
                         {
                             counter++;
                             if (counter == 4)
@@ -172,7 +172,7 @@ namespace ConnectFour
 
         public bool IsFull()
         {
-            foreach (var column in board)
+            foreach (var column in grid)
             {
                 if (column.Count < HEIGHT)
                 {
@@ -189,7 +189,7 @@ namespace ConnectFour
                 {
                     try
                     {
-                        Console.Write(board[j][i]);
+                        Console.Write(grid[j][i]);
                     }
                     catch
                     {

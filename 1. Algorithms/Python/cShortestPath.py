@@ -6,7 +6,7 @@
 #       Retounrez le chemin le plus court arrondi au centièmes.
 #       Vous pouvez librement modifier la totalité du ficher mise à part le nom de la fonction solution donnée et ses paramètres.
 
-def solution(nodes):
-    assert isinstance(grid, list)
-    assert isinstance(grid[0], (int, int))
+def solution(*nodes):
+    assert isinstance(nodes, list)
+    assert isinstance(nodes[0], (int, int))
     return 0;

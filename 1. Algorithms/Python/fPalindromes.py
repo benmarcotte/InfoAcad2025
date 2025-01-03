@@ -16,6 +16,3 @@ def solution():
         return True
     else:
         return False
-    
-
-print(solution())

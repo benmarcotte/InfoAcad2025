@@ -13,9 +13,16 @@ namespace Question_1
     {
         static void Main(string[] args)
         {
-            var options = new JsonSerializerOptions { WriteIndented = true, IncludeFields = true };
             string path = "C:\\Users\\Ben\\Downloads\\FichiersAcadInfo\\FichiersAcadInfo\\1. Algorithms\\Jsons\\";
+            GenerateSolutions(path);
+            
+        }
 
+
+
+        static void GenerateSolutions(string path)
+        {
+            var options = new JsonSerializerOptions { WriteIndented = true, IncludeFields = true };
 
             //cant do more than 9
             var aFile = new StreamWriter(path + "A.json");
